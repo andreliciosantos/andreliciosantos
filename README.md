@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Andrelicio Santos 👋
 
-<!--
-**andreliciosantos/andreliciosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Full Stack Web Developer, Linux enthusiast and always ready to learn and envolve. 💪🏻
 
-Here are some ideas to get you started:
+#### Current stack
+- ⚡️ Main language: `Javascript`
+- 👨🏻‍💻 Backend: `Nodejs`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 🗃️ Version code control: `Git`, `Github`, `GitLab`
+- 🔧 Tools: `VsCode`, `Markdown`
+- 🌍 I'm mostly active within the `Rocketseat Community` and `Gnome Brasil`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #### Contacts
+  - 📧 Email: andreliciosantos@proton.me or andreliciosantos@gmail.com
+  - 👤 Linkedin: https://www.linkedin.com/in/andreliciosantos
